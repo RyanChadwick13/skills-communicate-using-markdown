@@ -1,6 +1,6 @@
-# <header>
+#### <header>
 
-<!--
+### <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
@@ -13,7 +13,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 
 # </header>
 
-<!--
+#### <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
   The first step is always the hardest, so pick something easy!
@@ -23,7 +23,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 
 ## Step 1: Add headers
 
-_Welcome to "Communicate using Markdown"! :wave:_
+# _Welcome to "Communicate using Markdown"! :wave:_
 
 **What is _Markdown_?** Markdown is a [lightweight syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for communicating on GitHub. You can format text to add a heading, lists, **bold**, _italics_, tables, and many other stylings. You can use Markdown in most places around GitHub:
 
